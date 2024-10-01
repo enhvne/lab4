@@ -9,6 +9,7 @@ body {
     background-color: #f8f8f8;
     display: flex;
     justify-content: center;
+    padding: 20px;
 }
 
 .resume-container {
